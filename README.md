@@ -5,8 +5,8 @@
 
 ### 介绍
 * [序言](https://github.com/zhongdeng/The-Ultimate-Guide-To-React-Native-Optimization-2025/blob/main/Introduction/Preface.md)
-* [如何阅读本书]()
-* [为什么性能很重要]()
+* [如何阅读本书](https://github.com/zhongdeng/The-Ultimate-Guide-To-React-Native-Optimization-2025/blob/main/Introduction/How-to-Read-This-Book.md)
+* [为什么性能很重要](https://github.com/zhongdeng/The-Ultimate-Guide-To-React-Native-Optimization-2025/blob/main/Introduction/Why-Performance-Matters.md)
 
 ### 第一部份：JavaScript
 * [如何分析 JavaScript 和 React 的性能]()
