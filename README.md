@@ -4,7 +4,7 @@
 ## 目录
 
 ### 介绍
-* [序言]()
+* [序言](https://github.com/zhongdeng/The-Ultimate-Guide-To-React-Native-Optimization-2025/blob/main/Introduction/Preface.md)
 * [如何阅读本书]()
 * [为什么性能很重要]()
 
