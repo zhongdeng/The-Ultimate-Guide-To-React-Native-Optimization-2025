@@ -10,7 +10,7 @@
 
 ## JavaScript 的初始化流程
 
-![A simplified threading model of React Native in New Architecture presenting context in which JS is executed](../Assets/1.png)
+![A simplified threading model of React Native in New Architecture presenting context in which JS is executed](../assets/1.png)
 
 React Native 的初始化流程主要包含几个核心机制：
 
