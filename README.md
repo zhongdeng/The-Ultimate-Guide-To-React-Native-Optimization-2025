@@ -13,7 +13,7 @@
 ### 第一部份：[JavaScript](./part1/0.JavaScript.md)
 
 - [如何分析 JavaScript 和 React 的性能](./part1/1.How_to_Profile_JS_and_React_Code.md)
-- [如何测量 JavaScript 的帧率（FPS）](./part1/2.How_to_Measure_JS_FPS.md)
+- [如何测量 JavaScript 的帧率](./part1/2.How_to_Measure_JS_FPS.md)
 - [如何追踪 JavaScript 的内存泄漏](./part1/3.How_to_Hunt_JS_Memory_Leaks.md)
 - [非受控组件](./part1/4.Uncontrolled_Components.md)
 - [高阶定制组件（Higher-Order Specialized Components）](./part1/5.Higher-Order_Specialized_Components.md)
