@@ -16,7 +16,7 @@
 - [如何测量 JavaScript 的帧率](./part1/2.How_to_Measure_JS_FPS.md)
 - [如何追踪 JavaScript 的内存泄漏](./part1/3.How_to_Hunt_JS_Memory_Leaks.md)
 - [非受控组件](./part1/4.Uncontrolled_Components.md)
-- [高阶定制组件（Higher-Order Specialized Components）](./part1/5.Higher-Order_Specialized_Components.md)
+- [高阶定制组件](./part1/5.Higher-Order_Specialized_Components.md)
 - [原子化状态管理（Atomic State Management）](./part1/6.Atomic_State_Management.md)
 - [并发模式下的 React（Concurrent React）](./part1/7.Concurrent_React.md)
 - [React 编译器（React Compiler）](./part1/8.React_Compiler.md)
