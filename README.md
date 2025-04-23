@@ -17,9 +17,9 @@
 - [如何追踪 JavaScript 的内存泄漏](./part1/3.How_to_Hunt_JS_Memory_Leaks.md)
 - [非受控组件](./part1/4.Uncontrolled_Components.md)
 - [高阶定制组件](./part1/5.Higher-Order_Specialized_Components.md)
-- [原子化状态管理（Atomic State Management）](./part1/6.Atomic_State_Management.md)
+- [原子化状态管理](./part1/6.Atomic_State_Management.md)
 - [并发模式下的 React（Concurrent React）](./part1/7.Concurrent_React.md)
-- [React 编译器（React Compiler）](./part1/8.React_Compiler.md)
+- [React Compiler](./part1/8.React_Compiler.md)
 - [如何实现高性能动画且不掉帧](./part1/9.High-Performance_Animations_Without_Dropping_Frames.md)
 
 ### 第二部分：[Native](./part2/0.Native.md)
