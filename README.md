@@ -18,7 +18,7 @@
 - [非受控组件](./part1/4.Uncontrolled_Components.md)
 - [高阶定制组件](./part1/5.Higher-Order_Specialized_Components.md)
 - [原子化状态管理](./part1/6.Atomic_State_Management.md)
-- [并发模式下的 React（Concurrent React）](./part1/7.Concurrent_React.md)
+- [Concurrent React](./part1/7.Concurrent_React.md)
 - [React Compiler](./part1/8.React_Compiler.md)
 - [如何实现高性能动画且不掉帧](./part1/9.High-Performance_Animations_Without_Dropping_Frames.md)
 
