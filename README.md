@@ -20,7 +20,7 @@
 - [原子化状态管理](./part1/6.Atomic_State_Management.md)
 - [Concurrent React](./part1/7.Concurrent_React.md)
 - [React Compiler](./part1/8.React_Compiler.md)
-- [如何实现高性能动画且不掉帧](./part1/9.High-Performance_Animations_Without_Dropping_Frames.md)
+- [实现不掉帧的高性能动画](./part1/9.High-Performance_Animations_Without_Dropping_Frames.md)
 
 ### 第二部分：[Native](./part2/0.Native.md)
 
