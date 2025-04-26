@@ -24,7 +24,7 @@
 
 ### 第二部分：[Native](./part2/0.Native.md)
 
-- [理解不同平台的差异](./part3/1.How_to_Analyze_JS_Bundle_Size.md)
+- [理解不同平台的差异](./part2/1.Understand_Platform_Differences.md)
 - [如何分析 React Native 中的原生部分性能](./part2/2.How_to_Profile_Native_Parts_of_React_Native.md)
 - [如何测量 TTI（Time to Interactive）](./part2/3.How_to_Measure%20TTI.md)
 - [理解原生内存管理](./part2/4.Understanding_Native_Memory_Management.md)
