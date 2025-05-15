@@ -26,7 +26,7 @@
 
 - [理解不同平台的差异](./part2/1.Understand_Platform_Differences.md)
 - [如何分析 React Native 中的原生部分性能](./part2/2.How_to_Profile_Native_Parts_of_React_Native.md)
-- [如何测量 TTI（Time to Interactive）](./part2/3.How_to_Measure%20TTI.md)
+- [如何测量 TTI](./part2/3.How_to_Measure_TTI.md)
 - [理解原生内存管理](./part2/4.Understanding_Native_Memory_Management.md)
 - [理解 Turbo Modules 和 Fabric 的线程模型](./part2/5.Understand_the_Threading_Model_of_Turbo_Modules_and_Fabric.md)
 - [使用 View Flattening 优化视图结构](./part2/6.Use_View_Flattening.md)
