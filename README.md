@@ -30,7 +30,7 @@
 - [理解原生内存管理](./part2/4.Understanding_Native_Memory_Management.md)
 - [理解 Turbo Modules 和 Fabric 的线程模型](./part2/5.Understand_the_Threading_Model_of_Turbo_Modules_and_Fabric.md)
 - [使用 View Flattening 优化视图结构](./part2/6.Use_View_Flattening.md)
-- [优先使用专用的 React Native SDK，而不是 Web 方案](./part2/7.Use_dedicated_React_Native_SDKs_Over_Web.md)
+- [优先使用 React Native 专用的 SDK，而不是 Web](./part2/7.Use_dedicated_React_Native_SDKs_Over_Web.md)
 - [让你的原生模块运行得更快](./part2/8.Make_Your_Native_Modules_Faster.md)
 - [如何查找原生内存泄漏](./part2/9.How_to_Hunt_Memory_Leaks.md)
 
