@@ -39,7 +39,7 @@
 - [如何分析 JavaScript Bundle 的大小](./part3/1.How_to_Analyze_JS_Bundle_Size.md)
 - [如何分析 App 安装包的大小](./part3/2.How_to_Analyze_App_Bundle_Size.md)
 - [确定第三方库的实际体积](./part3/3.Determine_True_Size_of_Third-Party_Libraries.md)
-- [避免使用 Barrel Exports）](./part3/4.Avoid_Barrel_Exports.md)
+- [避免使用 Barrel Exports](./part3/4.Avoid_Barrel_Exports.md)
 - [尝试使用 Tree Shaking 精简代码](./part3/5.Experiment_With_Tree_Shaking.md)
 - [按需远程加载代码](./part3/6.Load_Code_Remotely_When_Needed.md)
 - [在 Android 中使用 R8 压缩代码](./part3/7.Shrink_Code_With_R8_Android.md)
